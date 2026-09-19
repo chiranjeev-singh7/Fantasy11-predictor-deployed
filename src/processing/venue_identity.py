@@ -25,6 +25,7 @@ ALIASES = {
     "sardar patel stadium": "narendra modi stadium",
     "hpca stadium": "h p c a stadium",
     "himachal pradesh cricket association stadium": "h p c a stadium",
+    "emirates old trafford, manchester":"old trafford, manchester"
 }
 
 

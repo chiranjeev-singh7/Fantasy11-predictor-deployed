@@ -12,7 +12,8 @@ ALIASES = {
     "gus atkinson": "aap atkinson",
     "charith asalanka": "kic asalanka",
     "dushmantha chameera": "pvd chameera",
-    "wanindu hasaranga":"pwh de silva"
+    "wanindu hasaranga":"pwh de silva",
+    "kamindu mendis":"phkd mendis"
 }
 
 
