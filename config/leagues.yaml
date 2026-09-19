@@ -1,0 +1,76 @@
+leagues:
+  ipl:
+    name: Indian Premier League
+    format: T20
+    cricsheet_slug: ipl_male
+    active: true
+  international_t20:
+    name: T20 Internationals
+    format: T20
+    cricsheet_slug: t20s_male
+    active: true
+  international_odi:
+    name: One Day Internationals
+    format: ODI
+    cricsheet_slug: odis_male
+    active: true
+  international_test:
+    name: Test Matches
+    format: Test
+    cricsheet_slug: tests_male
+    active: true
+  bbl:
+    name: Big Bash League
+    format: T20
+    cricsheet_slug: bbl_male
+    active: true
+  psl:
+    name: Pakistan Super League
+    format: T20
+    cricsheet_slug: psl_male
+    active: true
+  cpl:
+    name: Caribbean Premier League
+    format: T20
+    cricsheet_slug: cpl_male
+    active: true
+  the_hundred:
+    name: The Hundred
+    format: Hundred
+    cricsheet_slug: hnd_male
+    active: true
+  sa20:
+    name: SA20
+    format: T20
+    cricsheet_slug: sat_male
+    active: true
+  bpl:
+    name: Bangladesh Premier League
+    format: T20
+    cricsheet_slug: bpl_male
+    active: true
+  lpl:
+    name: Lanka Premier League
+    format: T20
+    cricsheet_slug: lpl_male
+    active: true
+  ilt20:
+    name: International League T20
+    format: T20
+    cricsheet_slug: ilt_male
+    active: true
+  mlc:
+    name: Major League Cricket
+    format: T20
+    cricsheet_slug: mlc_male
+    active: true
+  t20_blast:
+    name: T20 Blast
+    format: T20
+    cricsheet_slug: ntb_male
+    active: false
+  wpl:
+    name: Women's Premier League
+    format: T20
+    cricsheet_slug: wpl_female
+    active: false

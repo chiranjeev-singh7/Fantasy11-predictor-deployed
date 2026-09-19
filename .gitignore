@@ -1,0 +1,14 @@
+__pycache__/
+*.py[cod]
+.DS_Store
+.vscode/
+.idea/
+.env
+*.log
+*.csv
+!data/features/player_features_deploy.csv.gz
+!data/processed/player_identity.csv
+!data/processed/venue_identity.csv
+data/raw/
+.~lock.*
+tempCodeRunnerFile.py

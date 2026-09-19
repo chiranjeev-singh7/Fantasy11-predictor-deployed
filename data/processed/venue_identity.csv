@@ -1,0 +1,5 @@
+cricbuzz_venue,historical_venue,match_method,confidence
+"Sophia Gardens, Cardiff","Sophia Gardens, Cardiff",alias,1.0
+"Kensington Oval, Bridgetown, Barbados","Kensington Oval, Bridgetown, Barbados",alias,1.0
+"Arun Jaitley Stadium, Delhi","Arun Jaitley Stadium, Delhi",alias,1.0
+"Harare Sports Club, Harare",Harare Sports Club,fuzzy,0.894186
