@@ -22,4 +22,8 @@ streamlit run app.py
 
 ## Streamlit Community Cloud
 
-Deploy `app.py` from the root of the GitHub repository using Streamlit Community Cloud.
+Deployed `app.py` from the root of the GitHub repository using Streamlit Community Cloud.
+
+## 🔗 Links
+
+- **Live Demo:** [Fantasy 11 Predictor](https://fantasy11-predictor-deployed.streamlit.app/)
